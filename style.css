@@ -1,0 +1,11 @@
+*{
+    margin: 0;
+    font-family: 'Times New Roman', Times, serif;
+    border: border-box;
+
+}
+
+.outer{
+    height: 70px;
+    background-color: cornflowerblue;
+}
